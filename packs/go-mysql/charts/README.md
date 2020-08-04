@@ -1,1 +1,2 @@
-# golang application
+# golang application with mysql
+
